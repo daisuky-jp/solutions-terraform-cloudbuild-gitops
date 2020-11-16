@@ -27,8 +27,6 @@ module "vpc" {
   env     = "${local.env}"
 }
 
-
-
 module "firewall" {
   source  = "../../modules/firewall"
   project = "${var.project}"
