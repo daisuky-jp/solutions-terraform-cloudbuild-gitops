@@ -1,1 +1,1 @@
-project="PROJECT_ID"
+project="easyhint-demo-001"
